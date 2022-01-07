@@ -49,5 +49,7 @@ Il recupero dei rifiuti informatici è insieme il punto di partenza di due perco
 ## files 
 
  - [postinst.sh](postinst.sh) lo script poco interativo post installazione. Vive su una chiavetta, da tanciare in un terminale terminata l'installazione di Lubuntu
- - [wg0.conf](wg0.conf) il file di configurazione del server VPN wireguard con 2 peer di esempio
+ - [wg0.conf](wg0.conf) il file di configurazione del serv
+er VPN wireguard con 2 peer di esempio
  - [functions.php](functions.php) functions.php del child theme di WP, rende possibile il collegamento con i peers e il link diretto alle stanze
+ ![terminali](https://user-images.githubusercontent.com/1172624/148581462-3dde7e9a-3cf6-4767-b5b0-c7f2d6359534.png)
